@@ -1,19 +1,29 @@
-## 📚 Featured Papers
+# 📚 RL & Computer Vision for Autonomous Navigation
 
-### 1️⃣ [Autonomous UAV Navigation Using Deep Learning-Based Computer Vision Frameworks: A Systematic Literature Review](https://doi.org/10.1016/j.array.2024.100361)
-- **Authors:** Aditya Vardhan Reddy Katkuri, Hakka Madan, Narendra Khatri, Antar Shaddad Hamed Abdul-Qawy, K. Sridhar Patnaik  
-- **Published in:** *Array*, Elsevier, 2024  
-- **DOI:** [🔗 10.1016/j.array.2024.100361](https://doi.org/10.1016/j.array.2024.100361)  
-- **Summary:**  
-  This systematic literature review examines the role of deep learning-based computer vision (DL-based CV) for autonomous UAV navigation. The study categorizes research into four key domains:  
-  - 🔍 Sensing and inspection  
-  - 🛬 Landing  
-  - 🎥 Surveillance and tracking  
-  - 🚁 Search and rescue  
-  The paper highlights trends, challenges, and emerging technologies such as in-sensor computing and the YOLO framework's growing prominence in UAV applications.
-- **Key Insights:**  
-  - 🚀 Over 39.5% of studies utilize the YOLO framework for UAV applications.  
-  - 🔍 Deep learning enhances UAV autonomy by improving real-time perception.  
-  - 📌 Challenges include data availability, energy consumption, and computational constraints.  
+A collection of research papers on reinforcement learning (RL) and computer vision for autonomous navigation.
 
-📖 **Read the full paper:** [Elsevier Link](https://doi.org/10.1016/j.array.2024.100361)
+## 🔍 Categories
+- **[Survey Papers](papers/surveys.md)**  
+- **[RL for UAV Navigation](papers/uav-navigation.md)**  
+- **[Deep RL in Disaster Scenarios](papers/disaster-rl.md)**  
+- **[Vision-Based Path Planning](papers/vision-path-planning.md)**  
+
+---
+
+## 📜 Papers  
+
+### 📖 **Survey Papers**
+1️⃣ **[Survey on RL for Vision-Based Navigation](papers/survey-rl-navigation.md)** ([Elsevier](https://doi.org/10.1016/j.array.2024.100361))  
+
+### 🚁 **RL for UAV Navigation**  
+2️⃣ **[Autonomous UAV Navigation Using Deep Learning-Based Computer Vision](papers/autonomous-uav-navigation.md)** ([MDPI](https://www.mdpi.com/2504-446X/7/4/245))  
+3️⃣ **[Deep Reinforcement Learning for UAV Control](papers/deep-rl-uav.md)** ([IEEE](https://ieeexplore.ieee.org/document/9348925))  
+4️⃣ **[Path Planning for UAVs Using RL](papers/uav-path-planning.md)** ([MDPI](https://www.mdpi.com/2075-1702/10/7/500))  
+
+### 🔥 **Deep RL in Disaster Scenarios**  
+5️⃣ **[UAV Autonomous Target Search Using Deep RL in Complex Disaster Scenes](papers/uav-disaster-rl.md)** ([IEEE Access](https://ieeexplore.ieee.org/document/8787847))  
+6️⃣ **[Aerial Robotics for Disaster Response](papers/aerial-robotics-disaster.md)** ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1000936123003448))  
+
+### 👁 **Vision-Based Path Planning**  
+7️⃣ **[Reinforcement Learning for Vision-Based Navigation](papers/vision-rl-navigation.md)** ([Springer](https://link.springer.com/article/10.1007/s10994-021-06006-6))  
+8️⃣ **[Vision-based Obstacle Avoidance in RL](papers/obstacle-avoidance.md)** ([MDPI](https://www.mdpi.com/2227-7390/11/2/405))  
