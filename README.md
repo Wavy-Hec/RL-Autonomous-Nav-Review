@@ -44,7 +44,7 @@ A collection of research papers on reinforcement learning (RL) and computer visi
 ### 📖 **Survey Papers**
  
 
-1️⃣ **[Survey on RL for Vision-Based Navigation](papers/survey-rl-navigation.md)** ([Elsevier](https://doi.org/10.1016/j.array.2024.100361))  
+1️⃣Survey on RL for Vision-Based Navigation ([Elsevier](https://doi.org/10.1016/j.array.2024.100361))  
  
 
 
@@ -53,11 +53,11 @@ A collection of research papers on reinforcement learning (RL) and computer visi
 ### 🚁 **RL for UAV Navigation**  
  
 
-2️⃣ **[Deep Reinforcement Learning for UAV Control](papers/deep-rl-uav.md)** ([IEEE](https://ieeexplore.ieee.org/document/9348925))  
+2️⃣Deep Reinforcement Learning for UAV Control ([IEEE](https://ieeexplore.ieee.org/document/9348925))  
  
 
 
-3️⃣**[Path Planning for UAVs Using RL](papers/uav-path-planning.md)** ([MDPI](https://www.mdpi.com/2075-1702/10/7/500))  
+3️⃣Path Planning for UAVs Using RL ([MDPI](https://www.mdpi.com/2075-1702/10/7/500))  
  
 
 
@@ -66,10 +66,10 @@ A collection of research papers on reinforcement learning (RL) and computer visi
 ### 🔥 **Deep RL in Disaster Scenarios**  
  
 
-4️⃣**[UAV Autonomous Target Search Using Deep RL in Complex Disaster Scenes](papers/uav-disaster-rl.md)** ([IEEE Access](https://ieeexplore.ieee.org/document/8787847))  
+4️⃣UAV Autonomous Target Search Using Deep RL in Complex Disaster Scenes ([IEEE Access](https://ieeexplore.ieee.org/document/8787847))  
  
 
-5️⃣**[Aerial Robotics for Disaster Response](papers/aerial-robotics-disaster.md)** ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1000936123003448))  
+5️⃣Aerial Robotics for Disaster Response ([ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1000936123003448))  
  
 
 
@@ -77,10 +77,10 @@ A collection of research papers on reinforcement learning (RL) and computer visi
 
 ### 👁 **Vision-Based Path Planning**  
 
-6️⃣**[Autonomous UAV Navigation Using Deep Learning-Based Computer Vision](papers/autonomous-uav-navigation.md)** ([MDPI](https://www.mdpi.com/2504-446X/7/4/245))  
+6️⃣Autonomous UAV Navigation Using Deep Learning-Based Computer Vision ([MDPI](https://www.mdpi.com/2504-446X/7/4/245))  
  
 
-7️⃣ **[Reinforcement Learning for Vision-Based Navigation](papers/vision-rl-navigation.md)** ([Springer](https://link.springer.com/article/10.1007/s10994-021-06006-6))  
+7️⃣Reinforcement Learning for Vision-Based Navigation ([Springer](https://link.springer.com/article/10.1007/s10994-021-06006-6))  
  
 
-8️⃣ **[Vision-based Obstacle Avoidance in RL](papers/obstacle-avoidance.md)** ([MDPI](https://www.mdpi.com/2227-7390/11/2/405))  
+8️⃣Vision-based Obstacle Avoidance in RL ([MDPI](https://www.mdpi.com/2227-7390/11/2/405))  
